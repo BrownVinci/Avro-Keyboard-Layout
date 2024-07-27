@@ -86,6 +86,15 @@ Probhat is another popular layout known for its ease of use and widespread adopt
 UniBijoy is tailored for users familiar with the Bijoy layout and offers a seamless transition for Bijoy users.
 
 ---
+### 7. Windows Default
+
+![Windows Default Keyboard Layout](https://raw.githubusercontent.com/BrownVinci/Avro-Keyboard-Layout/main/Layout%20Image/Windows%20Default%20Keyboard%20Layout.png)
+
+**File**: `Windows Default.avrolayout`
+
+No need to install the Windows "Bangla (Bangladesh)" keyboard separately anymore. Just use the "Windows Default.avrolayout" with Avro.
+
+---
 
 ## Installation
 
