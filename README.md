@@ -2,6 +2,9 @@
 
 Welcome to the **Avro Keyboard Layouts** repository! This project provides a collection of popular Bengali keyboard layouts designed to enhance typing efficiency and ease for users who write in Bengali.
 
+**Available in Other Languages:**
+- [বাংলা (Bengali) README](README.BN.md)
+
 ## Table of Contents
 
 - [Overview](#overview)
